@@ -1,0 +1,10 @@
+body{
+    background-color: #2e64d8;
+    border: ;
+    font-family: bold;
+    /* input-security: ; */
+    font: bold;
+}
+body:hover{
+    view-timeline: inherit;
+}
